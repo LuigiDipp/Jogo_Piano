@@ -18,13 +18,13 @@ body {
   margin-left: 4px;
 }
 
-.white-key {
-  width: 40px;
-  height: 120px;
+.white-key { 
+  width: 75px;
+  height: 220px;
   background-color: #FFF;
   border: 4px solid black;
   border-radius: 0 0 6px 6px;
-  margin-left: -4px;
+  margin-left: -12.9px;
   outline: none;
   cursor: pointer;
 }
@@ -35,8 +35,8 @@ body {
 
 .black-key {
   position: absolute;
-  width: 24px;
-  height: 80px;
+  width: 50px;
+  height: 150px;
   background-image: linear-gradient(#000000, #303030);
   border: 3px solid black;
   border-radius: 0 0 2px 2px;
@@ -49,56 +49,31 @@ body {
 }
 
 .Db4-key {
-  left: 22px;
+  left: 27px;
 }
 
 .Eb4-key {
-  left: 58px;
+  left: 89px;
 }
 
 .Gb4-key {
-  left: 130px;
+  left: 212px;
 }
 
 .Ab4-key {
-  left: 166px;
-}
-
-.Bb4-key {
-  left: 202px;
-}
-
-.Db5-key {
   left: 274px;
 }
 
+.Bb4-key {
+  left: 338px;
+}
+
+.Db5-key {
+  left: 460px;
+}
+
 .Eb5-key {
-  left: 310px;
+  left: 525px;
 }
 
-h2{
-  font-family:cursive;
-  position: relative;
-  bottom: 5px;
-  right: 900px;
-  color: #F0E68C;
-}
 
-h3{
-  font-family:cursive;
-  position: relative;
-  top: 100px;
-  right: 900px;
-  color: #F0F8FF;
-  border: 2px solid #FFFF00;
-  padding: 2%;
-}
-
-h4{
-  font-family:cursive;
-  position: relative;
-  bottom:280px;
-  left: 500px;
-  color: #F0F8FF;
-  font-size: 20px;
-}
