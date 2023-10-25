@@ -76,4 +76,135 @@ body {
   left: 525px;
 }
 
+#do{
+  display:flex;
+  margin-right: 110px;
+ margin-top: 180px;
+ margin-left: 20px;
+}
 
+#re{
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 20px;
+}
+
+#mi {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 20px;
+}
+
+#fa {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#so {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#sol {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#la {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#si {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#d {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#r {
+  display: flex;
+  margin-right: 100px;
+  margin-top: 180px;
+  margin-left: 15px;
+}
+
+#m {
+  display: flex;
+  margin-right: 110px;
+  margin-top: 180px;
+  margin-left: 20px;
+}
+
+#dos {
+  display: flex;
+  color: #FFF;
+  margin-right: 120px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+#res {
+  display: flex;
+  color: #FFF;
+  margin-right: 120px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+#fas {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#sols {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#las {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#dus {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
+
+#resi {
+  display: flex;
+  color: #FFF;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-left: 2px;
+}
